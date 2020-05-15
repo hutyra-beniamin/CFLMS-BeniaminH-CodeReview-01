@@ -86,7 +86,7 @@ li a {
 
 h3 {
 	font-family:sans-serif;
-	font-size:1.5em;
+	font-size:1.8em;
 	margin-top:0.5em;
 	text-align:center;
 }
@@ -109,10 +109,7 @@ h3 {
 }
 
 
-.trick {
-	visibility: hidden;
-}
-/* i know i shouldn`t but it works :D */
+
 
 div > #first {
 	padding-left:10em;
@@ -120,7 +117,8 @@ div > #first {
 
 div > #second {
 	padding-left:18em;
-	
+
+
 }
 
 
