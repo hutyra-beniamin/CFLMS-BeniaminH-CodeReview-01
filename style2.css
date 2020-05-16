@@ -138,6 +138,48 @@ textarea {
 /* Main content blog.html ends */
 
 
+/* styling aboutme.html-start */
+
+#aboutme{
+	text-align:justify;
+	text-align:center;
+	padding:2.5em;
+	font-family:sans-serif;
+	font-size:1.5em;
+}
+
+.firstimg > img {
+	width:50%;
+	height:50%;
+	padding-top:1em;
+	padding-bottom:1em;
+	padding-right:1em;
+	padding-left:1em;
+	margin-top:2em;
+	margin-bottom:0.5em;
+	box-shadow: 5px 5px 15px 5px #000000;
+}
+#mainheader > h1 {
+	padding-top:1.5em;
+}
+
+.mainarticle{
+	padding:2em;
+	text-align:justify;
+}
+
+#ending{
+	padding:2em;
+	text-align:center;
+	text-decoration:underline;
+	font-style:italic;
+}
+
+
+
+/* styling aboutme.html-end   */
+
+
 /*footer starts*/
 footer {
 	font-family:sans-serif;
